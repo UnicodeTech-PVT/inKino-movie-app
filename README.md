@@ -77,8 +77,3 @@ Contributions are welcome!
 However, if it's going to be a major change, please create an issue first. 
 Before starting to work on something, please comment on a specific issue and say you'd like to work on it.
 
-## Thanks
-
-Special thanks to [Olli Haataja](https://www.linkedin.com/in/olli-haataja-46b96b120/) for the design. 
-
-Additional thanks for the initial release go to [Thibaud Colas](https://twitter.com/thibaud_colas), [Brian Egan](https://twitter.com/brianegan), [Alessandro Aime](https://twitter.com/aimealessandro) and [Juho Rautioaho](https://github.com/Jraut) for giving their extra pair of eyes for reviewing the source code.
